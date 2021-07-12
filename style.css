@@ -1,0 +1,80 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.Campus_mainDiv{
+    border: 1px solid#c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+.Campus_mainDiv img
+{
+    width: 100%;
+}
+.Campus_mainDiv hr
+{
+    width: 230px;
+}
+.Campus_mainDiv h5,.Campus_mainDiv p
+{
+    margin-left:20px;
+}
+.Achievments_li
+{
+    margin-top:13px;
+}
+.Achievments_li h4
+{
+    border-bottom:1px solid white;
+    padding: 8px;
+}
+.Achievments_li img
+{
+    border-radius: 25px;
+}
+.Achievments_li p
+{
+    margin-top: 10px;
+}
+.header_extrepreneur
+{
+    line-height: 2;
+}
+.Alumni
+{
+    cursor: pointer;
+}
+.Alumni hr
+{
+    margin-top: 10px;
+}
+.modal-content
+{
+    margin-top: 100px;
+}
+.img_modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+    margin-top: 10px;
+}
+.modal_body
+{
+    text-align: center;
+}
